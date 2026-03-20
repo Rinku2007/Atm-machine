@@ -102,3 +102,14 @@ Enter your PIN: 1234
 
 ## ⚠️ Disclaimer
 This project is created for educational purposes only and does not represent a real banking system.
+
+
+## 🚀 Future Improvements
+Multi-user support
+Database integration (MySQL / MongoDB)
+Transaction history
+GUI (Java Swing / JavaFX)
+Advanced security (OTP system)
+
+## 👨‍💻 Author
+Rinku
