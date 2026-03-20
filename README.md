@@ -47,3 +47,58 @@ ATM-Machine/
 |──ATM.class
 |──ATM_Machine.class
 ```
+
+
+---
+
+## ⚙️ How It Works
+
+1. User enters PIN  
+2. System validates PIN  
+3. If correct → ATM menu is displayed  
+4. User selects operation  
+5. Balance updates accordingly  
+6. Loop continues until exit  
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/atm-machine.git
+
+```
+
+2. Navigate to the project folder
+```bash
+cd atm-machine
+```
+
+3. Compile the Java file
+```bash
+javac ATM_Machine.java
+```
+
+4. Run the program
+```bash
+java ATM_Machine
+```
+
+## 🔐 Default Credentials
+
+PIN: 1234
+
+Initial Balance: ₹10000
+
+## 🖥️ Sample Output
+Enter your PIN: 1234
+
+===== ATM Menu =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+
+## ⚠️ Disclaimer
+This project is created for educational purposes only and does not represent a real banking system.
